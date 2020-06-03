@@ -1,0 +1,16 @@
+body {
+    padding: 15px 0;
+}
+
+.panel-buttons {
+    background-color: #f0f0f0;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.panel-buttons:after {
+    clear: both;
+    display: block;
+    content: " ";
+}
